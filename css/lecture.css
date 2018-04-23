@@ -19,3 +19,6 @@ image.intro{
   padding: 5px;
   border: 1px solid #555;
 }
+a.mail{
+  color: red;
+}
