@@ -2,3 +2,9 @@ h1{
   color: blue;
   font-family: cursive;
 }
+p.intro{
+  color: grey;
+  font-family: serif;
+  font-weight: normal;
+  font-size: 20px;
+}
