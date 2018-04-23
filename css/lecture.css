@@ -2,6 +2,12 @@ h1{
   color: blue;
   font-family: cursive;
 }
+h2.intro{
+  color: purple;
+  font-weight: bold;
+  font-style: cursive;
+  font-size: 30px;
+}
 p.intro{
   color: grey;
   font-family: serif;
